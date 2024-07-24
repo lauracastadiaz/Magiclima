@@ -1,4 +1,5 @@
 # Magiclima 
+https://keen-kheer-00d5cd.netlify.app/
 https://magiclima.netlify.app/
 
 Magiclima es una aplicación web que proporciona información meteorológica en tiempo real para la ubicación actual del usuario y permite buscar el clima de otras ciudades. La aplicación utiliza la API de OpenWeatherMap para obtener los datos meteorológicos y los presenta de manera clara y visualmente atractiva.
